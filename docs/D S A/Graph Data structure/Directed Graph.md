@@ -1,4 +1,4 @@
-# Directed Graph
+# Directed Graph [[Traversals]]
 
 These types of graph have directions in edges
 
